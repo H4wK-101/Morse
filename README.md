@@ -2,9 +2,8 @@
 Encode and Decode Morse code with this python script . 
 
 ## How to use ?
+use Morse.py with the following arguments to use it.
 ```
-use Morse.py with the following arguments pyo use it.
-
   -h, --help            show this help message and exit
   -d MORSE, --decode MORSE
                         Decode Morse to Plain text .
@@ -20,16 +19,17 @@ use Morse.py with the following arguments pyo use it.
  .--. -.-- - .... --- -.  --. ..- -.--
  H4k3r@kali~$ python3 morse.py --decode "--. .. - .... ..- -..."
  GitHub
-
 ```
+
 ## How to Download :
+
  ### In Linux,type:
       ```
-       git clone 
+      git clone https://github.com/anii-py/Morse.git
       ```
  ### In Windows,
-      install the zip and run the .py file
-      (Should obviously have python installed )
+     install the zip and run the .py file
+     (Should obviously have python installed )
       
        
 
